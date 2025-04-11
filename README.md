@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Flash Loan in Aave 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+Contract address deployed at: 0xDa881253710F64FA147591fbc9E4Ba6D34B25B13
